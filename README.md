@@ -1,4 +1,4 @@
-# **Assessment blackout.ai - AI Agent Project‬ **
+# **Assessment blackout.ai - AI Agent Project‬**
 
 This project is a comprehensive **AI Toll** that processes datasets, performs web searches, and uses a Language Model (LLM) to extract user-defined information. Designed with a user-friendly interface, it streamlines the workflow for data extraction, query generation, and information retrieval. 
 
