@@ -73,3 +73,11 @@ This **Project** enables users to:
 ---
 
 
+**Dashboard**
+
+![image alt](https://github.com/vermayuvraj/assessment_blackOut.ai/blob/bdcceb1efb97b785b6c9a89c8977211023bd47db/2.jpg)
+
+**Data Priview**
+
+![image alt](https://github.com/vermayuvraj/assessment_blackOut.ai/blob/bdcceb1efb97b785b6c9a89c8977211023bd47db/1.jpg)
+
